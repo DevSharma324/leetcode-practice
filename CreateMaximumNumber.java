@@ -4,6 +4,8 @@ public class CreateMaximumNumber {
     nums1 = 3, 4, 6, 5
     nums2 = 9, 1, 2, 5, 8, 3
     k = 5
+
+    val = 9, 8, 6, 5, 3
     */
     public int[] maxNumber(int[] nums1, int[] nums2, int k) {
 

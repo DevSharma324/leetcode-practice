@@ -1,5 +1,10 @@
 public class RomanToInteger {
 
+    /*
+    s = "MCMXCIV"
+
+    val = 1994
+    */
     public int romanToInt(String s) {
 
         String[] r;

@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daa061fb-9834-45f8-aca4-ed92ab1f09ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-practice.iml" afterDir="false" />
+    <list default="true" id="daa061fb-9834-45f8-aca4-ed92ab1f09ab" name="Changes" comment="class for new leetcode problem">
+      <change beforePath="$PROJECT_DIR$/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/RomanToInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -36,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "show.migrate.to.gradle.popup": "false"
   }
@@ -49,6 +47,28 @@
       <option name="presentableId" value="Default" />
       <updated>1684139756241</updated>
     </task>
+    <task id="LOCAL-00001" summary="created base structure of leetcode problem's execution call">
+      <created>1684141340504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684141340505</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added self solution for leetcode problem 13 - https://leetcode.com/problems/roman-to-integer/">
+      <created>1684142999939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684142999939</updated>
+    </task>
+    <task id="LOCAL-00003" summary="class for new leetcode problem">
+      <created>1684143057390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684143057390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +81,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created base structure of leetcode problem's execution call" />
+    <MESSAGE value="added self solution for leetcode problem 13 - https://leetcode.com/problems/roman-to-integer/" />
+    <MESSAGE value="class for new leetcode problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="class for new leetcode problem" />
   </component>
 </project>
